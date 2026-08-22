@@ -90,14 +90,12 @@ An Android application for managing contacts with a simple and user-friendly int
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-Kumar-Goswami&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar-Goswami&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Kumar-Goswami&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar-Goswami&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -105,12 +103,8 @@ An Android application for managing contacts with a simple and user-friendly int
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Kumar-Goswami&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Kumar-Goswami&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
 
 ## 📚 Currently Learning
 
