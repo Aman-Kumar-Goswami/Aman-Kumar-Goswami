@@ -54,7 +54,7 @@ I'm an **Android Developer** passionate about building modern, user-friendly and
 
 A personal finance management Android application for managing income, expenses and financial activities.
 
-**Tech:** Kotlin • XML • Room • Firebase • MVVM • Retrofit
+**Tech:** Kotlin • Jetpack Compose • Room • Firebase • MVVM • Retrofit
 
 ---
 
@@ -86,7 +86,7 @@ A simple Android application for creating, editing and managing personal notes.
 
 An Android application for managing contacts with a simple and user-friendly interface.
 
-**Tech:** Kotlin • XML • Android
+**Tech:** Kotlin • jetpack Compose • Android
 
 ---
 
