@@ -117,8 +117,8 @@ An Android application for managing contacts with a simple and user-friendly int
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/aman-kumar-531861372/"/>
+<a href="https://www.linkedin.com/in/aman-kumar-531861372/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
